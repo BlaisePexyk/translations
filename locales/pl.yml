@@ -102,31 +102,31 @@ pl:
     tab_mobile: Telefon
   groups:
     new:
-      description_label: Description
-      description_placeholder: What's the group about?
-      loader_text: Oh no you didn't!
-      membership_restrictions_label: Restricted to
-      membership_restrictions_placeholder: ex. submissives...
-      membership_restrictions_sub_label: leave blank if open to everyone
-      name_label: Name
-      name_placeholder: What's the name of your group?
-      page_title: Start a New Group
-      return_to_groups_link_text: return to your groups
-      rules_label: Rules
-      rules_placeholder: What are the group's rules?
-      submit_button_text: Create my New Group
-      terms_and_conditions_community_guidelines_link: Community Guidelines
-      terms_and_conditions_group_leader_guidelines_link: Group Leader Guidelines
-      terms_and_conditions_terms_of_use_link: Terms of Use
-      title_description: A group is where kinksters can come together to share experiences, common interests, make plans, and more!
-      title_title: Create a New Group
+      description_label: Opis
+      description_placeholder: Czego dotyczy grupa?
+      loader_text: O nie, nie zrobiłeś tego!
+      membership_restrictions_label: Zastrzeżona dla
+      membership_restrictions_placeholder: np. submissives (uległych)...
+      membership_restrictions_sub_label: zostaw puste, aby zostawić otwartą dla wszystkich
+      name_label: Nazwa
+      name_placeholder: Jak nazywa się Twoja grupa?
+      page_title: Utwórzy nową grupę
+      return_to_groups_link_text: powrót do grup
+      rules_label: Zasady
+      rules_placeholder: Jakie zasady obowiązują w grupie?
+      submit_button_text: Tworzę nową grupę
+      terms_and_conditions_community_guidelines_link: Wskazówki Społeczności
+      terms_and_conditions_group_leader_guidelines_link: Wskazówki Lidera Grupy
+      terms_and_conditions_terms_of_use_link: Zasady użytkowania strony
+      title_description: Grupy pozwalają kinksterom zbliżyć się do siebie, dzielić doświadczeniem, zainteresowaniami, tworzyć plany i więcej!
+      title_title: Utwórz nową grupę
   guidelines:
-    header: FetLife Guidelines & Legalese
+    header: Wskazówki FetLife i Postanowienia Prawne
     headers:
-      community: Community Guidelines
-      content: Content Guidelines
-      group_leader: Group Leader Guidelines
-      values: Guiding Values
+      community: Wskazówki Społeczności
+      content: Wskazówki Dotyczące Treści
+      group_leader: Wskazówki Lidera Grupy
+      values: Wartości
     last_updated: 'Ostatnio zaktualizowane:'
     sections:
       guidelines:
@@ -143,7 +143,7 @@ pl:
       community: Społeczność
       content: Zawartość
       group_leader: Lider grupy
-      values: Values
+      values: Wartości
     title: Wytyczne
   invite_a_friend:
     cancel_button: anuluj
@@ -262,7 +262,7 @@ pl:
     button: Zmień domyślny język
     help_translate: Odwiedź nasz <a class="silver" href="https://github.com/fetlife/translations">projekt tłumaczeń</a> na GitHubie i pomóż uczynić FetLife bardziej atrakcyjnym dla większej liczby przyjaciół i społeczeństw.
     language_name: Polski
-    sub_header: Hi, hallo, olá, bonjour, ciao, ahoj, opa, szia, 你好, привет, merhaba!
+    sub_header: Cześć, hi, hallo, olá, bonjour, ciao, ahoj, opa, szia, 你好, привет, merhaba!
     title: Wybierz język
   settings_account:
     2fa_cta: Włącz uwierzytelnianie dwuetapowe
@@ -314,8 +314,8 @@ pl:
     page_title: Aktualizacja profilu
     subtitle: Samorozwój to dobra rzecz.
     title: Twój profil
-    website_url_cant_be_blank: Website URL can't be blank
-    website_url_too_long: Website URL is too long (maximum is %{count} characters)
+    website_url_cant_be_blank: Adres URL nie może być pusty
+    website_url_too_long: Adres URL jest za długi (maksymalnie może być %{count} znaków)
     websites_label: Strony WWW
     websites_placeholder: https://fetlife.com
   settings_support:
@@ -328,12 +328,12 @@ pl:
   sidebar:
     about_fetlife: Poznaj nasz team
     ad_stats: Statystyki reklam
-    advertisers: All Advertisers
+    advertisers: Wszyscy reklamodawcy
     advertising: Reklama
     already_member: Jesteś już członkiem?
     androidapp: Zainstaluj appkę na Androida
     bug_bounty: Premia za znalezienie bugów
-    careers: Careers
+    careers: Kariera
     caretaking: Narzędzia dla opiekunów
     change_language: Zmień język
     close: zamknij
@@ -343,17 +343,17 @@ pl:
     events: Wydarzenia
     fetishes: Fetysze
     following: Śledzenie
-    formatting: Formatting Guidelines
-    fp: Fresh & Pervy
-    friends_and_following: Friends & Following
+    formatting: Formatowanie wpisów
+    fp: Świeże i Zboczone
+    friends_and_following: Przyjaciele i Followersi
     funny_quote: Jeśli nie możesz tego przeczytać ... to pewnie potrzebujesz okularów! - John 4:69
-    gift_support: Podaruj FetLife Support
+    gift_support: Podaruj FetLife Wsparcie
     glossary: Słowniczek
     groups: Grupy
     guidelines: Wytyczne
     home: Start
     invite_a_friend: Zaproś znajomych (%{count})
-    kp: Kinky & Popular
+    kp: Sprośne i Popularne
     legalese: Kwestie prawne
     log_out: Wyloguj się
     login: Zaloguj się
@@ -423,65 +423,65 @@ pl:
     subtitle: Ludzie z fotką profilową mają 69x więcej zabawy.
     title: Wyślij fotkę profilową
   signup_five_strikes:
-    page_title: Five Strike Rule
+    page_title: Zasada Pięciu Ostrzeżeń
     return_to_front: return to front page
-    subtitle_error: Shoot, for security reasons, you'll have to wait two hours before being able to try to sign up again.
-    title: Five Strike Rule
+    subtitle_error: Kurcze, dla bezpieczeństwa, będziesz musiał(a) odczekać dwie godziny przed ponowną próbą dołączenia.
+    title: Zasada Pięciu Ostrzeżeń
   signup_follow:
     follow: Follow
-    next_step: Next Step
-    subtitle: Follow kinksters that pique your interest.
-    title: Anyone Catch Your Eye?
+    next_step: Następny krok
+    subtitle: Śledź kinksterów, którzy wzbudają Twoje zaintersowanie.
+    title: Czy ktoś przykuł Twój zwrok?
   signup_phone:
-    cta: Send Me a Verification Code
-    error_blocked: "<strong>Kinky Operator:</strong> Unfortunately, we currently don't allow people to signup using a %{carrier_name} number."
-    error_cant_send: "<strong>Kinky Operator:</strong> We're having problems sending you a text message. Make sure you start your number with your country code: +1 for the US and Canada, +44 for the UK, +61 for Australia, +31 for Netherlands, +49 for Germany, +33 for France, etc. and that you are not trying to send a text message to your landline."
-    error_quota: "<strong>Kinky Operator:</strong> We can't send more than 3 text messages to the same number in a 24 hour period. Please try again later."
-    explanation: We know it's a lot to ask, but to maintain a healthy and vibrant community, we need to verify everyone before they join. Something we think you will appreciate once you are on the other side.
-    label: Mobile Phone Number
-    page_title: Send Verification Code
-    pro_tip: "<strong>Pro Tip:</strong> Make sure you start your number with your country code: +1 for the US and Canada, +44 for the UK, +61 for Australia, +31 for Netherlands, +49 for Germany, +33 for France, etc."
-    subtitle: One-time anonymous text message.
-    title: Verification Time!
+    cta: Wyślij mi kod weryfikacyhny
+    error_blocked: "<strong>Kinky Operator:</strong> Niestety, nie możemy obecnie pozwolić na rejestrację przy użyciu podanego numeru: %{carrier_name}."
+    error_cant_send: "<strong>Kinky Operator:</strong> Mamy kłopot z wysłaniem wiadomości. Upewnij się, że numer zaczyna się od krajowego numeru kierunkowego: +48 dla Polski, +1 dla USA lub Kanady, +44 dla UK, +61 dla Australii, +31 dla Niderlandów, +49 dla Niemiecy, +33 dla Francji, etc. oraz że nie podałeś/podałaś numeru stacjonarnego."
+    error_quota: "<strong>Kinky Operator:</strong> Nie możemy wysłać więcej niż 3 wiadomości w ciągu 24 godzin na ten sam numer telefonu. Prosimy spróbować później."
+    explanation: Wiemy, że prosimy o wiele, ale aby utrzymać zdrową i tętniącą życiem społeczność, musimy zweryfikować wszystkich przed dołączeniem. Docenisz to, gdy będziesz już po drugiej stronie.
+    label: Numer komórkowy
+    page_title: Wyślij kod weryfikacyjny
+    pro_tip: "<strong>Pro Tip:</strong> Upewnij się, że wpisujesz numer rozpoczynający się od krajowego numeru kierunkowego: +48 dla Polski, +1 dla USA lub Kanady, +44 dla UK, +61 dla Australii, +31 dla Niderlandów, +49 dla Niemiecy, +33 dla Francji, etc."
+    subtitle: Jednorazowa i Anonimowa wiadomość.
+    title: Czas na weryfikację!
   signup_verify:
-    cta: Complete Signup & Verification
+    cta: Dokończ Rejestrację i Weryfikację
     incorrect_code: "<strong>Kinky Operator:</strong> Doh&hellip; the verification code you entered seems off. Please verify that the number above matches what you received from us and try again."
-    label: Verification Code
-    notice: We sent the verification code to <strong>%{phone_number}</strong>. If after a couple minutes you don't receive a text message from us, <a class="silver" href="%{back_path}">update your number and we'll send you a new verification code</a>.
-    page_title: Enter Verification Code
-    placeholder: 6-Digit Verification Code
-    subtitle: That was a bit painful wasn't it?!?!
-    title: Last Step
+    label: Kod weryfikacyjny
+    notice: Prześlemy Ci kod weryfikacyjny na <strong>%{phone_number}</strong>. Jeśli nie otrzymasz go w ciągu kilku minut, <a class="silver" href="%{back_path}">zaktualizuj numer telefonu, a przyślemy Ci nowy kod</a>.
+    page_title: Wprowadź kod weryfikacyjny
+    placeholder: 6-cyfrowy kod weryfikacyjny
+    subtitle: To było trochę bolesne, co nie?!?!
+    title: Ostatni krok
   subnav:
     feed:
-      activity_feed: Activity Feed
-      activity_feed_short: Home
-      fp: Fresh<span class="a-ampersand">&amp;</span>Pervy
-      fp_short: Fresh
-      kp: Kinky<span class="a-ampersand">&amp;</span>Popular
-      kp_short: Popular
+      activity_feed: Kanał Aktywności
+      activity_feed_short: Główna
+      fp: Świeże<span class="a-ampersand">&amp;</span>Pervy
+      fp_short: Świeże
+      kp: Popularne<span class="a-ampersand">&amp;</span>Kinky
+      kp_short: Popularne
     profile:
-      about: About Me
-      about_short: About
-      latest: Latest Activity
-      latest_short: Latest
-      pictures: Pictures
-      pictures_short: Pics
-      videos: Videos
-      videos_short: Vids
-      writings: Writings
-      writings_short: Writings
+      about: O mnie
+      about_short: O mnie
+      latest: Ostatnie aktywności
+      latest_short: Aktualności
+      pictures: Fotki
+      pictures_short: Fotki
+      videos: Filmiki
+      videos_short: Filmiki
+      writings: Wpisy
+      writings_short: Wpisy
     settings:
-      account: Account
-      account_short: Account
-      notifications: Notifications
-      notifications_short: Notifications
-      privacy: Privacy
-      privacy_short: Privacy
-      profile: Profile
-      profile_short: Profile
-      support: Support
-      support_short: Support
+      account: Konto
+      account_short: Konto
+      notifications: Powiadomienia
+      notifications_short: Powiadomienia
+      privacy: Prywatność
+      privacy_short: Prywatność
+      profile: Profil
+      profile_short: Profil
+      support: Wsparcie
+      support_short: Wsparcie
   support:
     benefits:
       item_1: A sexy <span>I Support FetLife</span> badge on your profile.
@@ -564,7 +564,7 @@ pl:
       yourself: Buy Support for Yourself
     header:
       subheader: And get all the <a href="%{link}">sexy benefits</a> that come with being a supporter.
-      title: Support FetLife Today!
+      title: Wesprzyj FetLife już dziś!
     step1:
       ach:
         extra_info: As straightforward and secure as paying by credit card for those with a bank account in the United States.
