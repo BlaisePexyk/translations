@@ -615,16 +615,16 @@ pl:
         title: Teleingreso
       title: Select a Payment Method
     step2:
-      120_info: "$5/month"
-      120_title: "$120 for 24 Months"
-      240_info: "<i>Priceless</i>"
-      240_title: "$240 for Lifetime!"
-      30_info: "$5/month"
-      30_title: "$30 for 6 Months"
-      60_info: "$5/month"
-      60_title: "$60 for 12 Months"
-      return_info: 7-day no questions asked money back guarantee.
-      title: How much do you love FetLife?
+      120_info: "$5/miesięcznie"
+      120_title: "$120 za 24 miesiące"
+      240_info: "<i>Bezcenne</i>"
+      240_title: "$240 Dożywotnie członkostwo!"
+      30_info: "$5/miesięcznie"
+      30_title: "$30 za 6 miesięcy"
+      60_info: "$5/miesięcznie"
+      60_title: "$60 za 12 miesięcy"
+      return_info: 7-dniowa gwarancja zwrotu pieniędzy bez zadawania pytań.
+      title: Jak bardzo koszach FetLife?
     step2_paygarden:
       confirm: I Have a Gift Card I Want to Trade for Support
       list_footer: and <a href='%{link}'>100s of other major brands.</a>
